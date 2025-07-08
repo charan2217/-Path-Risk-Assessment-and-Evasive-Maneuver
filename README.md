@@ -47,7 +47,7 @@
 
 ### 📊 Sample Output
 
-<img src="plots/risk-prediction-graph.png" width="400"/>
+<img src="Screenshot (569).png" width="400"/>
 
 ---
 
